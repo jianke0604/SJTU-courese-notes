@@ -1,0 +1,1 @@
+cmd_/home/jianke/Desktop/final-src-osc10e/ch3/pid/pid.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/jianke/Desktop/final-src-osc10e/ch3/pid/pid.ko /home/jianke/Desktop/final-src-osc10e/ch3/pid/pid.o /home/jianke/Desktop/final-src-osc10e/ch3/pid/pid.mod.o;  true

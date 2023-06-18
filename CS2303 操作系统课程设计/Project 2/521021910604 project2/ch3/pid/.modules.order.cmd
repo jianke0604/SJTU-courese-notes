@@ -1,0 +1,1 @@
+cmd_/home/jianke/Desktop/final-src-osc10e/ch3/pid/modules.order := {   echo /home/jianke/Desktop/final-src-osc10e/ch3/pid/pid.ko; :; } | awk '!x[$$0]++' - > /home/jianke/Desktop/final-src-osc10e/ch3/pid/modules.order

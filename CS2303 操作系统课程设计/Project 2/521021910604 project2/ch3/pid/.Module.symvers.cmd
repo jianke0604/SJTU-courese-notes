@@ -1,0 +1,1 @@
+cmd_/home/jianke/Desktop/final-src-osc10e/ch3/pid/Module.symvers := sed 's/\.ko$$/\.o/' /home/jianke/Desktop/final-src-osc10e/ch3/pid/modules.order | scripts/mod/modpost -m -a  -o /home/jianke/Desktop/final-src-osc10e/ch3/pid/Module.symvers -e -i Module.symvers   -T -

@@ -1,0 +1,1 @@
+cmd_/home/jianke/Desktop/final-src-osc10e/ch2/modules.order := {   echo /home/jianke/Desktop/final-src-osc10e/ch2/jiffies.ko;   echo /home/jianke/Desktop/final-src-osc10e/ch2/seconds.ko; :; } | awk '!x[$$0]++' - > /home/jianke/Desktop/final-src-osc10e/ch2/modules.order

@@ -1,0 +1,1 @@
+shell and pid can be seen in the file /pid and /testshell.
